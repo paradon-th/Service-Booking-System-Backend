@@ -1,0 +1,158 @@
+# Build folders
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio cache
+.vs/
+.vscode/
+
+# ASP.NET Core environment
+appsettings.Development.json
+
+# Dotnet artifacts
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# NuGet packages and cache files
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+*.nuget.props
+*.nuget.targets
+*.nuget.dgspec.json
+*.nuget.cache
+project.assets.json
+project.packagespec.json
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+
+# Publish folders
+publish/
+out/
+dist/
+wwwroot/lib/
+
+# Logs and temp files
+*.log
+*.tlog
+*.tmp
+*.tmp_proj
+*.bak
+*.backup
+*.old
+*.swp
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+
+# Files built by Visual Studio
+*_i.c
+*_p.c
+*_h.h
+*.ilk
+*.meta
+*.obj
+*.iobj
+*.pch
+*.pdb
+*.ipdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+
+# OS generated files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Rider
+.idea/
+*.sln.iml
+
+# JetBrains
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Test results
+TestResult*/
+[Tt]est[Rr]esult*/
+*.trx
+*.coverage
+*.coveragexml
+TestResults/
+
+# Docker
+docker-compose.override.yml
+*.env
+.env.local
+.env.development
+
+# Certificate files
+*.pfx
+*.p12
+*.cer
+*.key
+*.crt
+
+# Azure / publish profiles
+*.pubxml
+*.publishsettings
+PublishScripts/
+
+# Secrets
+secrets.json
+*.Secret.json
+*.Private.json
+*.key
+*.pem
+
+# NPM / Frontend (ถ้าโปรเจกต์มี UI)
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Entity Framework Migrations (ถ้าไม่ต้องการ commit)
+# Migrations/
+
+# Others
+coverage/
+*.cache
+!.gitkeep
+
+# Migrations/
+ 
+.fake
