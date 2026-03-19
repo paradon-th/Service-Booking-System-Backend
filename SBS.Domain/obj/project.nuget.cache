@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eaiiK+4HI3M=",
+  "success": true,
+  "projectFilePath": "/Users/paradonthonthong/SBS/Backend/SBS.Domain/SBS.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/paradonthonthong/.nuget/packages/microsoft.netcore.app.ref/8.0.22/microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
+    "/Users/paradonthonthong/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.22/microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

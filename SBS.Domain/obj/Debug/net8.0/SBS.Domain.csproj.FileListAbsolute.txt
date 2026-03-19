@@ -1,0 +1,11 @@
+/Users/paradonthonthong/SBS/Backend/SBS.Domain/bin/Debug/net8.0/SBS.Domain.deps.json
+/Users/paradonthonthong/SBS/Backend/SBS.Domain/bin/Debug/net8.0/SBS.Domain.dll
+/Users/paradonthonthong/SBS/Backend/SBS.Domain/bin/Debug/net8.0/SBS.Domain.pdb
+/Users/paradonthonthong/SBS/Backend/SBS.Domain/obj/Debug/net8.0/SBS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paradonthonthong/SBS/Backend/SBS.Domain/obj/Debug/net8.0/SBS.Domain.AssemblyInfoInputs.cache
+/Users/paradonthonthong/SBS/Backend/SBS.Domain/obj/Debug/net8.0/SBS.Domain.AssemblyInfo.cs
+/Users/paradonthonthong/SBS/Backend/SBS.Domain/obj/Debug/net8.0/SBS.Domain.csproj.CoreCompileInputs.cache
+/Users/paradonthonthong/SBS/Backend/SBS.Domain/obj/Debug/net8.0/SBS.Domain.dll
+/Users/paradonthonthong/SBS/Backend/SBS.Domain/obj/Debug/net8.0/refint/SBS.Domain.dll
+/Users/paradonthonthong/SBS/Backend/SBS.Domain/obj/Debug/net8.0/SBS.Domain.pdb
+/Users/paradonthonthong/SBS/Backend/SBS.Domain/obj/Debug/net8.0/ref/SBS.Domain.dll
