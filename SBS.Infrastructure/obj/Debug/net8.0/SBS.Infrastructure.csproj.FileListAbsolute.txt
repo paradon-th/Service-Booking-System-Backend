@@ -17,3 +17,4 @@
 /Users/paradonthonthong/SBS/Backend/SBS.Infrastructure/obj/Debug/net8.0/SBS.Infrastructure.pdb
 /Users/paradonthonthong/SBS/Backend/SBS.Infrastructure/obj/Debug/net8.0/SBS.Infrastructure.genruntimeconfig.cache
 /Users/paradonthonthong/SBS/Backend/SBS.Infrastructure/obj/Debug/net8.0/ref/SBS.Infrastructure.dll
+/Users/paradonthonthong/SBS/Backend/SBS.Infrastructure/obj/Debug/net8.0/SBS.Infrastructure.sourcelink.json

@@ -9,3 +9,4 @@
 /Users/paradonthonthong/SBS/Backend/SBS.Domain/obj/Debug/net8.0/refint/SBS.Domain.dll
 /Users/paradonthonthong/SBS/Backend/SBS.Domain/obj/Debug/net8.0/SBS.Domain.pdb
 /Users/paradonthonthong/SBS/Backend/SBS.Domain/obj/Debug/net8.0/ref/SBS.Domain.dll
+/Users/paradonthonthong/SBS/Backend/SBS.Domain/obj/Debug/net8.0/SBS.Domain.sourcelink.json

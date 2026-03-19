@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SBS.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f49aba6bbead90aeba8278f7d41ebcc95fd95074")]
 [assembly: System.Reflection.AssemblyProductAttribute("SBS.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SBS.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

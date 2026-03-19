@@ -13,3 +13,4 @@
 /Users/paradonthonthong/SBS/Backend/SBS.Application/obj/Debug/net8.0/refint/SBS.Application.dll
 /Users/paradonthonthong/SBS/Backend/SBS.Application/obj/Debug/net8.0/SBS.Application.pdb
 /Users/paradonthonthong/SBS/Backend/SBS.Application/obj/Debug/net8.0/ref/SBS.Application.dll
+/Users/paradonthonthong/SBS/Backend/SBS.Application/obj/Debug/net8.0/SBS.Application.sourcelink.json

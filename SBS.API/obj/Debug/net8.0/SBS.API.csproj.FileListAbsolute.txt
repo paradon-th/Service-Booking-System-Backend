@@ -127,3 +127,4 @@
 /Users/paradonthonthong/SBS/Backend/SBS.API/bin/Debug/net8.0/BCrypt.Net-Next.dll
 /Users/paradonthonthong/SBS/Backend/SBS.API/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
 /Users/paradonthonthong/SBS/Backend/SBS.API/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/Users/paradonthonthong/SBS/Backend/SBS.API/obj/Debug/net8.0/SBS.API.sourcelink.json
