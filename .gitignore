@@ -3,6 +3,8 @@
 [Oo]bj/
 [Ll]og/
 [Ll]ogs/
+*.dll
+*.pdb
 
 # User-specific files
 *.rsuser
